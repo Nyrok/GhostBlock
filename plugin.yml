@@ -1,0 +1,6 @@
+name: GhostBlock
+author: Nyrok
+version: 1.0.0
+api: [4.0.0]
+main: Nyrok\GhostBlock\Main
+src-namespace-prefix: Nyrok\GhostBlock
